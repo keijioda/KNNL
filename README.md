@@ -23,4 +23,4 @@ All data set file names are followed by the extension *.txt, indicating that the
 
 ## Reference
 
-* Kutner M.H., Nachtsheim, C.J., Neter, J., & Li, W. (2005) *Applied Linear Statistical Models* (5th ed.). McGraw-Hill/Irwin.
+* Kutner, M.H., Nachtsheim, C.J., Neter, J., & Li, W. (2005) *Applied Linear Statistical Models* (5th ed.). McGraw-Hill/Irwin.
