@@ -20,3 +20,7 @@ Datasets have names in one of the following formats, depending on whether the da
   Example: APPEND10 denotes the dataset for Problem D10.
 
 All data set file names are followed by the extension *.txt, indicating that the file is a text file.
+
+## Reference
+
+* Kutner M.H., Nachtsheim, C.J., Neter, J., & Li, W. (2005) *Applied Linear Statistical Models* (5th ed.). McGraw-Hill/Irwin.
